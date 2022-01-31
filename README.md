@@ -1,3 +1,5 @@
 # parking_sensor
+This will change the color of two LED strips to based on how close
+a vehicle is to the front of a garage.
 
-for use with Arduino or ESP
+For use with Arduino or ESP
